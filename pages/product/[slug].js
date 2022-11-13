@@ -111,7 +111,7 @@ const ProductScreen = () => {
                         )}
                       </li>
                       <li className="p-3 mt-1">
-                        <button className="bg-slate-900 w-full h-12 uppercase font-semibold text-white mt-1 md:rounded-lg fixed bottom-0 left-0 md:relative">
+                        <button className="bg-red-600 w-full h-12 uppercase font-semibold text-white mt-1 md:rounded-lg fixed bottom-0 left-0 md:relative">
                           Add to cart
                         </button>
                       </li>
